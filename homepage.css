@@ -81,3 +81,71 @@ li{
 	line-height: 2;
 	text-align: center;
 }
+
+      /* section 부분 */
+
+.main{
+	overflow: hidden;
+	width: 800px;
+	height: 900px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.section{
+	width: 800px;
+	margin: 20px;
+	line-height: 70px;
+	float: left;
+}
+
+.section img{
+	float: left;
+	width: 250px;
+	height: 180px;
+}
+
+.title{
+	overflow: hidden;
+	width: 500px;
+	margin: 10px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+.contents{
+	overflow: hidden;
+	width: 500px;
+	margin: 10px;
+		border: 1px solid black;
+
+	text-align: center;
+}
+
+.box{
+	overflow: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
